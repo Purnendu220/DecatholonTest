@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Mumbai Indians",
+    "points": 0
+  },
+  {
+    "id": 2,
+    "name": "Delhi Capitals",
+    "points": 0
+  },
+  {
+    "id": 3,
+    "name": "Chennai Super Kings",
+    "points": 0
+  },
+  {
+    "id": 4,
+    "name": "Punjab Kings",
+    "points": 0
+  },
+  {
+    "id": 5,
+    "name": "KKR",
+    "points": 0
+  },{
+  "id": 6,
+  "name": "SRH",
+  "points": 0
+},{
+  "id": 7,
+  "name": "RCB",
+  "points": 0
+},{
+  "id": 8,
+  "name": "RR",
+  "points": 0
+}
+]
